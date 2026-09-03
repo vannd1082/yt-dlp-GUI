@@ -14,7 +14,7 @@ Simple GUI for yt-dlp using Python built-in Tkinter.
 - Real-time progress log.
 
 ## Supported Sites
-
+https://github.com/vannd1082/yt-dlp-GUI/blob/main/supported_sites.md
 
 ## Requirements
 - Python 3.x installed (download from python.org).
