@@ -5,22 +5,24 @@ Simple GUI for yt-dlp using Python built-in Tkinter.
 ![screenshot](https://github.com/user-attachments/assets/3e920332-6e3e-437e-b40b-9b76694022aa)
 
 ## Features
-- Download video or audio-only (MP3)
-- Choose video quality (up to 1080p)
-- Download entire playlists
-- Download subtitles (choose language, format, include auto-generated)
-- Use browser cookies for sites requiring login
-- Choose output folder
-- Real-time progress log
+- Download video or audio-only (MP3).
+- Choose video quality (up to 1080p).
+- Download entire playlists.
+- Download subtitles (choose language, format, include auto-generated).
+- Use browser cookies for sites requiring login.
+- Choose output folder.
+- Real-time progress log.
+
+## Supported Sites
+
 
 ## Requirements
-- Python 3.x installed (download from python.org)
-- ffmpeg installed and added to PATH (required by yt-dlp for merging audio/video)
+- Python 3.x installed (download from python.org).
+- ffmpeg installed and added to PATH (required by yt-dlp for merging audio/video).
 
 ## Usage
-1. Download .zip file from Release
-2. Make sure Python, ffmpeg are installed
-3. Double-click `run.bat` (or run `python yt-dlp-gui.py` directly)
+1. Download .zip file from Release and unzip it.
+2. Double-click `run.bat`
 
 ## Credits
 This project uses [yt-dlp](https://github.com/yt-dlp/yt-dlp), licensed
