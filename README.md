@@ -29,10 +29,3 @@ bundled dependencies.
 
 ## License
 This project (GUI code) is licensed under the MIT License. See LICENSE file.
-
-<img width="882" height="752" alt="image" src="https://github.com/user-attachments/assets/3e920332-6e3e-437e-b40b-9b76694022aa" />
-
-
-This project uses yt-dlp (https://github.com/yt-dlp/yt-dlp),
-licensed under the Unlicense. See THIRD_PARTY_LICENSES.txt for
-licenses of bundled dependencies.
