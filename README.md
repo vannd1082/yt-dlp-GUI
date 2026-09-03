@@ -17,8 +17,8 @@ Simple GUI for yt-dlp using Python built-in Tkinter.
 https://github.com/vannd1082/yt-dlp-GUI/blob/main/supported_sites.md
 
 ## Requirements
-- Python 3.x installed (download from python.org).
-- ffmpeg installed and added to PATH (required by yt-dlp for merging audio/video).
+- [Python 3.x](https://www.python.org/downloads/) installed.
+- [ffmpeg](https://ffmpeg.org/download.html) installed and added to PATH (required by yt-dlp for merging audio/video).
 
 ## Usage
 1. Download .zip file from Release and unzip it.
