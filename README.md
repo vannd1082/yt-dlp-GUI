@@ -1,4 +1,4 @@
-# yt-dlp-GUI
+# yt-dlp_GUI
 
 Simple GUI for yt-dlp using Python built-in Tkinter.
 
