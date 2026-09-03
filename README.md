@@ -2,7 +2,7 @@
 
 Simple GUI for yt-dlp using Python built-in Tkinter.
 
-![screenshot](https://github.com/user-attachments/assets/3e920332-6e3e-437e-b40b-9b76694022aa)
+<img width="882" height="752" alt="image" src="https://github.com/user-attachments/assets/2ab8b0d9-859a-411f-97a0-262f11a56cf1" />
 
 ## Features
 - Download video or audio-only (MP3).
